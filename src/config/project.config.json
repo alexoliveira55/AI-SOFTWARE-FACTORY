@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "name": "task_pair_app",
+      "path": "D:\\desenvolvimento\\FLUTTER\\task_pair_app",
+      "technology": "flutter",
+      "jiraProjectKey": "TPA",
+      "defaultBranch": "main",
+      "featuresFolder": "features"
+    },
+    {
+      "name": "GestorOperacionalWeb",
+      "path": "D:\\desenvolvimento\\NETCORE\\GestorOperacionalWeb",
+      "technology": "netcore",
+      "jiraProjectKey": "GESTOR-OPERACIONAL-WEB",
+      "defaultBranch": "main",
+      "featuresFolder": "features"
+    }
+  ]
+}
